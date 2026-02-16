@@ -11,8 +11,8 @@ Estou iniciando minha jornada tecnológica e focando em dominar ferramentas esse
 * **GitHub:** Controle de versão e documentação do projeto.
 
 ## 📁 Estrutura do Projeto
-- `/planilhas`: Contém os arquivos `.xlsx` gerados durante o curso.
-- `/images`: prints das telas.
+- `/planilha`: Contém os arquivos `.xlsx` gerados durante o curso.
+- `/imagens`: prints das telas.
 
 ## 📧 Contato
 
